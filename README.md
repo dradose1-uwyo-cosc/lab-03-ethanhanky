@@ -4,4 +4,4 @@
 ## Worked with/sources 
 * Working with Lists Powerpoint
 ## Project Quirks/ Things that don't work
-* I didnt have any problems
+* It wouldn't let me append multiple things at once so i had to do them all by themselves.
