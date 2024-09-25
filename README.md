@@ -1,12 +1,7 @@
-# [Name]
-## [Assignment #]
-## [Submission date: MM/DD/YY]
+# [Ethan Hankel]
+## [Lab 3]
+## [Submission date: 09/25/24]
 ## Worked with/sources 
-* example
-* example
-* example
-* example
+* Working with Lists Powerpoint
 ## Project Quirks/ Things that don't work
-* example
-* example
-* example
+* I didnt have any problems
